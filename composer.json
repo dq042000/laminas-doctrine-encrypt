@@ -22,9 +22,9 @@
   "require": {
     "php": ">=7.2",
     "ext-sodium": "*",
-    "doctrine/annotations": "^2.0",
+    "doctrine/annotations": "^1.6 || ^2.0",
     "doctrine/orm": "^2.6",
-    "doctrine/doctrine-module": "^4.0",
+    "doctrine/doctrine-module": "^4.0 || ^5.0 || ^6.0",
     "paragonie/halite": "^4.4",
     "paragonie/hidden-string": "^1.0",
     "laminas/laminas-modulemanager": "^2.14.0",
